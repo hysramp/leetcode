@@ -5,3 +5,4 @@
 04/09/2019	p 1022, DFS, tree traverse, O(n)
 04/09/2019	p 1021, direct, O(n)
 04/10/2019	p 1020, DFS, O(n)
+04/11/2019	p 1019, Stack, O(n)
