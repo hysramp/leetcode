@@ -12,3 +12,5 @@
 04/14/2019  p 1027, DP, O(n^2 * log n)
 04/14/2019  p 1028, Tree traverse, O(n)
 04/16/2019  p 1017, Math, binary, O(C)
+04/23/2019  p 1029, greedy, O(n)
+04/23/2019  p 1030, construct, O(n)
